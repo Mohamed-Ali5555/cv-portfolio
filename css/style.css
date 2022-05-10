@@ -51,7 +51,8 @@ ul{
     /* right: 0; */
     /* z-index: 0; */
     opacity: 1;
-    
+    padding: 0px 30px;
+
     
 }
 .hidden{
@@ -710,5 +711,15 @@ h3.my-profession{
     .about .about-content .personal-info{
         flex: 0 0 100%;
         max-width: 100%;
+    }
+    .style-switcher{
+        right: 45px;
+    }
+    .home{
+        padding-top: 1px !important;
+    }
+    .section .container {
+        padding-top: 6px;
+        padding-bottom: 7px;
     }
 }
